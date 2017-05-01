@@ -1,7 +1,35 @@
+
+body {
+	padding-left: 20px;
+}
+
 .image {
 	width: 100%;
 }
 
-.twoImages {
+.media-object {
+	width: 180px;
+	padding: 20px;
+}
 
+.media {
+	padding: 5px;
+}
+
+.greenLine {
+	display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #006400;
+    margin: 1em 0;
+    padding: 0;
+}
+
+.greyLine {
+	display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #A9A9A9;
+    margin: 1em 0;
+    padding: 0;
 }
